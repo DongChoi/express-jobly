@@ -1,7 +1,7 @@
 # Jobly Backend
 
 This is the Express API used for Jobly that includes full CRUD capabilities on companies, jobs and users and the option to filter by queries.
-
+The repo is missing a config.js file for security purposes. Please email dongandrewchoi.gmail.com if you need assistance for set up.
 
 ### Technologies
 - Express
